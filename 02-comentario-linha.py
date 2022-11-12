@@ -1,0 +1,1 @@
+# Esse é um comentário de uma linha. Ele não é interpretado pelo Python
