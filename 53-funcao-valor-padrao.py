@@ -3,4 +3,4 @@
 def msg():
     return "Hello"
 
-print(msg())
+msg()
