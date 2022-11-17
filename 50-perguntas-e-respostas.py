@@ -35,3 +35,35 @@ elif respostas_certas == 1:
     print("Você acertou apenas uma questão.")
 else:
     print("Você acertou todas as questões.")
+
+
+
+# perguntas = {
+#     "pergunta 01":{
+#         "frente": "Qual a cor do céu?",
+#         "verso":"azul"
+#     },
+#     "pergunta 02":{
+#         "frente": "Qual a cor da floresta?",
+#         "verso": "verde"
+#     },
+#     "pergunta 03":{
+#         "frente": "Qual a cor da terra?",
+#         "verso": "marrom"
+#     }
+# }
+#
+# qtd_certas = 0
+#
+# for k, v in perguntas.items():
+#     print(f"{k}: {v['frente']}")
+#
+#     resposta = input("Digite a resposta:\n")
+#
+#     if resposta.lower() == v["verso"]:
+#         print("Resposta correta!")
+#         qtd_certas += 1
+#     else:
+#         print("Resposta incorreta!")
+#
+# print(f"Você acertou {qtd_certas} pergunta(s).")
