@@ -23,7 +23,7 @@ def texto_p_morse(texto):
     return "".join(d[i] for i in texto.upper())
 
 texto = input("Digite o texto a ser convertido para código Morse:\n")
-conversor = texto_p_morse(texto)
+conversor = texto_p_morse(texto.replace(" ", ""))
 
 print(f"{texto} em Código Morse: {conversor}")
 
