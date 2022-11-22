@@ -1,4 +1,4 @@
-# Converte em número romano
+#Converte em número romano
 
 class Conversor:
     def int_para_romano(self, num):
@@ -27,5 +27,3 @@ class Conversor:
 
         return numero_romano
 
-num =int(input("Digite um número a ser convertido:\n"))
-print(Conversor().int_para_romano(num))
