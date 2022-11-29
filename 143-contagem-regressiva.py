@@ -13,3 +13,4 @@ while final <= 10:
 
     if total == -1:
         print("Contagem encerrada!")
+        break
