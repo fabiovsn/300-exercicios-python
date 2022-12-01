@@ -1,6 +1,9 @@
 # Unificar categorias de exames
 
 from collections import defaultdict
+import time
+
+start = time.time()
 
 data = [
             ("Raios-X", "Raios-X"),
@@ -18,3 +21,8 @@ for i, j in data:
     def_dict[i].append(j)
 
 print(def_dict)
+
+end = time.time()
+
+tempo = end - start
+print(tempo)
