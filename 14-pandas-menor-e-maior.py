@@ -7,9 +7,9 @@ estoque = {'Cel Xiaomi Redmi Note 11': 1699,
 
 pdestoque = pd.Series(data = estoque)
 pdestoque = pd.DataFrame(pdestoque).reset_index()
-pdestoque.columns = ['Item', 'Preço']
+pdestoque.columns = ['Item', 'Preco']
 
-precos = pdestoque['Preço']
+precos = pdestoque['Preco']
 
 print(precos)
 print(f'Maior valor encontrado: R$ {precos[:6].max()},00')
