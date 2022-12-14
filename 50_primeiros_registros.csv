@@ -1,0 +1,51 @@
+,customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,StreamingTV,StreamingMovies,Contract,MonthlyCharges,TotalCharges,Churn
+1149,8844-TONUD,Male,0,Yes,Yes,13.0,Yes,Fiber optic,Yes,Yes,Month-to-month,96.65,1162.85,Yes
+4097,9974-JFBHQ,Male,0,No,Yes,64.0,Yes,Fiber optic,Yes,Yes,Month-to-month,99.15,6171.2,No
+4846,8993-IZEUX,Male,0,No,No,7.0,Yes,Fiber optic,No,No,Month-to-month,69.15,488.65,No
+4749,6633-MPWBS,Male,0,No,No,5.0,Yes,DSL,No,No,Month-to-month,49.2,216.9,Yes
+4573,6855-VLGOS,Male,0,Yes,Yes,72.0,Yes,No,No internet service,No internet service,Two year,20.55,1432.55,No
+923,9199-PWQVC,Female,0,Yes,No,63.0,Yes,DSL,Yes,Yes,One year,79.7,4786.15,No
+1859,4143-HHPMK,Male,0,No,No,52.0,Yes,Fiber optic,No,Yes,Month-to-month,85.35,4338.6,Yes
+3503,9821-BESNZ,Male,0,No,No,66.0,Yes,Fiber optic,Yes,Yes,One year,104.25,6860.6,No
+2635,9953-ZMKSM,Male,0,No,No,63.0,Yes,No,No internet service,No internet service,Two year,25.25,1559.3,No
+1075,4194-WHFCB,Female,0,Yes,Yes,59.0,Yes,Fiber optic,No,Yes,Month-to-month,96.65,5580.8,No
+3375,3642-BYHDO,Female,0,Yes,Yes,71.0,Yes,No,No internet service,No internet service,Two year,19.9,1389.35,No
+2548,9796-BPKIW,Male,1,No,No,8.0,Yes,Fiber optic,No,No,Month-to-month,69.95,562.7,No
+3715,5288-AHOUP,Male,1,No,No,11.0,Yes,Fiber optic,No,Yes,Month-to-month,78.5,874.2,No
+3652,0612-RTZZA,Female,1,No,No,1.0,No,DSL,No,No,Month-to-month,25.25,25.25,Yes
+176,2656-FMOKZ,Female,1,No,No,15.0,Yes,Fiber optic,No,No,Month-to-month,74.45,1145.7,Yes
+1894,9281-PKKZE,Female,0,Yes,No,46.0,No,DSL,Yes,Yes,Month-to-month,43.95,2007.85,No
+284,9512-UIBFX,Male,0,Yes,Yes,18.0,Yes,Fiber optic,Yes,Yes,Month-to-month,95.15,1779.95,Yes
+2382,6114-TCFID,Female,0,No,No,29.0,No,DSL,No,No,One year,39.5,1082.75,No
+4839,3070-DVEYC,Male,1,No,No,7.0,Yes,Fiber optic,No,No,Month-to-month,73.75,545.15,Yes
+5342,3521-SYVOR,Female,0,No,No,37.0,Yes,DSL,Yes,Yes,Month-to-month,64.75,2345.2,Yes
+374,6862-CQUMB,Male,0,No,No,37.0,Yes,Fiber optic,Yes,Yes,Month-to-month,96.1,3646.8,No
+3235,4825-XJGDM,Female,0,No,No,61.0,No,DSL,No,No,One year,43.7,2696.55,No
+2955,4626-GYCZP,Male,0,No,No,7.0,Yes,Fiber optic,Yes,Yes,Month-to-month,93.85,635.6,Yes
+1750,4137-JOPHL,Female,0,No,No,50.0,Yes,Fiber optic,No,Yes,Two year,89.7,4304.5,No
+5040,9909-IDLEK,Male,0,Yes,Yes,20.0,Yes,Fiber optic,Yes,No,Month-to-month,96.8,1826.7,No
+420,2233-FAGXV,Female,0,Yes,Yes,5.0,Yes,No,No internet service,No internet service,Month-to-month,24.3,132.25,No
+4835,2360-RDGRO,Male,0,Yes,No,65.0,Yes,Fiber optic,Yes,Yes,Month-to-month,104.25,6812.95,No
+2163,4021-RQSNY,Male,1,Yes,No,29.0,Yes,Fiber optic,Yes,Yes,Month-to-month,98.5,3004.15,Yes
+6251,9374-YOLBJ,Female,0,Yes,Yes,1.0,Yes,No,No internet service,No internet service,Month-to-month,19.25,19.25,No
+491,6778-YSNIH,Female,0,No,No,2.0,Yes,DSL,Yes,No,Month-to-month,59.0,114.15,No
+1099,6921-OZMFH,Male,0,Yes,Yes,5.0,Yes,DSL,No,No,Month-to-month,55.7,259.4,No
+3813,6837-HAEVO,Male,0,Yes,Yes,69.0,Yes,Fiber optic,Yes,Yes,Two year,105.0,7297.75,No
+3898,2332-TODQS,Female,0,No,No,48.0,Yes,No,No internet service,No internet service,One year,25.05,1171.5,No
+3748,6339-RZCBJ,Male,0,No,No,48.0,Yes,DSL,Yes,Yes,Two year,78.9,3771.5,No
+4949,3669-LVWZB,Male,0,No,No,5.0,No,DSL,Yes,Yes,Month-to-month,51.0,305.95,Yes
+1125,8111-SLLHI,Male,1,Yes,No,39.0,Yes,Fiber optic,Yes,Yes,Month-to-month,105.65,4284.8,Yes
+6838,2025-JKFWI,Male,0,No,No,13.0,Yes,Fiber optic,Yes,Yes,Month-to-month,99.0,1301.7,Yes
+5197,7566-DSRLQ,Female,0,Yes,No,72.0,Yes,Fiber optic,Yes,Yes,Two year,110.15,7998.8,No
+4801,0988-AADSA,Female,0,Yes,Yes,72.0,Yes,DSL,No,Yes,Two year,80.85,5824.75,No
+3501,8295-KMENE,Female,0,Yes,Yes,59.0,Yes,DSL,Yes,No,Two year,76.45,4519.5,No
+5962,3842-QTGDL,Male,0,Yes,No,16.0,Yes,Fiber optic,No,No,Month-to-month,80.75,1321.3,No
+2748,2495-INZWQ,Male,0,No,No,4.0,No,DSL,Yes,Yes,Month-to-month,44.55,174.3,Yes
+5596,5982-XMDEX,Female,0,No,No,65.0,Yes,No,No internet service,No internet service,Two year,26.5,1698.55,No
+380,5651-CRHKQ,Female,0,Yes,No,41.0,Yes,Fiber optic,No,No,One year,86.2,3339.05,No
+5163,3472-OAOOR,Male,0,Yes,Yes,19.0,No,DSL,No,No,Month-to-month,34.95,610.2,No
+229,0945-TSONX,Female,0,Yes,Yes,47.0,Yes,DSL,Yes,Yes,Two year,85.3,4107.25,No
+6914,7142-HVGBG,Male,1,Yes,No,43.0,Yes,Fiber optic,Yes,Yes,Month-to-month,103.0,4414.3,Yes
+5066,7191-ADRGF,Male,0,Yes,No,44.0,No,DSL,Yes,Yes,Two year,54.3,2390.45,No
+1134,2208-NQBCT,Female,0,Yes,Yes,26.0,Yes,Fiber optic,No,No,Month-to-month,81.95,2070.05,No
+410,0334-GDDSO,Male,1,No,No,3.0,Yes,Fiber optic,No,No,Month-to-month,81.35,233.7,Yes
